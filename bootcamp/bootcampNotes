@@ -1,0 +1,33 @@
+
+
+what is agile programming?
+
+Thoughts / Ideas on Good Code / Object Oriented Code/Paradigm
+Well-documented code. Easy to read code 
+Divide code into smaller pieces (functions) so they can be reused - Modularity 
+Hiding implementation details and exposing only what’s necessary
+Easy to Test (allow for more automated tests)  
+Correctness of Code
+Reusability of code - OO code??
+Good abstractions ( so its NOT scary to others)
+Performance - Time/Space complexity 
+Sensible File/Folder organisation - Module organisation
+Functional vs OO vs Procedural  - Each style has its own good ways/ context where it works.
+ENCAPSULATION - hiding the right set of details 
+Good Implementation, Easy to UNDERSTAND/CHANGE code
+ABSTRACTION - Exposing ONLY relevant behaviour or details 
+Good documentation , Easy to USE code 
+INHERITANCE - extending behaviour, more specialised behaviour. != reuse of behaviour  
+POLYMORPHISM 
+func overloading,  ( Complie time )   - Same Function name , different signature -  
+func overriding ( runtime time ). - Same Funcation name/signature , different object its called on
+		- Operator overloading (Not in java)
+
+
+
+
+3 laws of TDD
+
+* Write production code only to pass a failing unit test.
+* Write no more of a unit test than sufficient to fail (compilation failures are failures).
+* Write no more production code than necessary to pass the one failing unit test. 
